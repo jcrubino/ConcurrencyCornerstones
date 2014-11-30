@@ -3,8 +3,9 @@ Concurrency Cornerstones
 
 Various Language Implementations of:
 
-* Dining Philosopher
-* Producer Consumer
+* Sleeping Barbers
+* Dining Philosophers
+* Producers Consumers
 
 
 Using:
