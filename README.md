@@ -5,7 +5,7 @@ Various Language Implementations of:
 
 * Dining Philosopher
 * Producer Consumer
-* Sleeping Barber
+
 
 Using:
 
