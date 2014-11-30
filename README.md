@@ -1,7 +1,13 @@
 Concurrency Cornerstones
 =====================
 
-Various Language Implementations of Concurrency Cornerstone Examples
+Various Language Implementations of:
+
+* Dining Philosopher
+* Producer Consumer
+* Sleeping Barber
+
+Using:
 
 * Thread Locks
 * Message Passing
@@ -9,7 +15,4 @@ Various Language Implementations of Concurrency Cornerstone Examples
 * Kahn Process Nets
 * Data Flow
 
-* Dining Philosopher
-* Producer Consumer
-* Sleeping Barber
 
